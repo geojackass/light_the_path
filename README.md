@@ -1,2 +1,2 @@
-# light_the_path
-For the covid19 SpaceAppsChallenge 
+# Challenge theme Light the Path
+## For the covid19 SpaceAppsChallenge
